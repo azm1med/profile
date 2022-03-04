@@ -645,4 +645,12 @@
     .col {
         margin-bottom: 12px;
     }
+
+    .profile__introduce-img {
+        width: 100%;
+    }
+
+    .profile__menu {
+        padding: 8px 16px;
+    }
 }
